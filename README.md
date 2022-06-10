@@ -1,9 +1,9 @@
 ### Opa! Eu sou o Daniel Silva mais conhecido como Daniel!
 
 - 🔭 Atualmente trabalho como freelancer!
-- 🌱 Estou estudando php!
-- 📫 Me Contate No E-Mail: contatodanielsilvaoficial@gmail.com
-- 😄 Pronomes: ele-dele.
+- 🌱 Estou estudando HTML!
+- 📫 Me Contate No E-Mail: Milton.programacao@gmail.com
+
 
 <div align="center">
   <h4>Redes sociais</h4>
